@@ -7,7 +7,7 @@ Amazer-Tracer is used to track an ip address. IP-Tracer is developed for Termux 
 <img width="40%" src="src/Screenshot_2020-05-17-20-52-59-1.png"/>
 </p>
 
-## How to install IP-Tracer ?
+## How to install Amazer-Tracer ?
 
 * `apt update`
 
