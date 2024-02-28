@@ -22,7 +22,7 @@ Amazer-Tracer is used to track an ip address. IP-Tracer is developed for Termux 
 * `sh install` or `./install`
 
 
-## How to use IP-Tracer
+## How to use Amazer-Tracer
 
 * `trace -m` to track your own ip address.
 
