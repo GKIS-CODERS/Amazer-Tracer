@@ -13,7 +13,7 @@ Amazer-Tracer is used to track an ip address. IP-Tracer is developed for Termux 
 
 * `apt install git -y`
 
-* `git clone https://github.com/rajkumardusad/IP-Tracer.git`
+* `git clone https://github.com/GKIS-CODERS/Amazer-Tracer`
 
 * `cd Amazer-Tracer`
 
