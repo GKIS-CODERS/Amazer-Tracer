@@ -1,16 +1,16 @@
 #!/usr/bin/env bash
-# Tool Name :- IP-Tracer
-# Author :- Rajkumar Dusad
-# Date :- 10/10/2018
+# Tool Name :- Amazer-Tracer
+# Author :- Shantanu Shivam 
+# Date :- 28/02/2024
 
 case "$1" in
   -m)
-    php modules/.tracem.php
+    php .tracem.php
   ;;
   -t)
     case "$#" in
     2)
-      php modules/.traceip.php $2
+      php .traceip.php $2
     ;;
     *)
       echo "error : invalid arguments !!"
@@ -19,11 +19,11 @@ case "$1" in
     esac
   ;;
   -u)
-    php modules/.update.php
+    php .update.php
     exit
   ;;
   update)
-    php modules/.update.php
+    php .update.php
     exit
   ;;
   start)
@@ -31,7 +31,7 @@ case "$1" in
     exit
   ;;
   -rm)
-    php modules/.uninstall.php
+    php .uninstall.php
     exit
   ;;
   *)
